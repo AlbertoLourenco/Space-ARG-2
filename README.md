@@ -1,4 +1,3 @@
-# Space ARG-2
 ![Space ARG-2 v1.0.0](http://albertolourenco.com.br/github/space-arg-2.png)
 
 An academic game project.
